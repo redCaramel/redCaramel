@@ -56,3 +56,10 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
+
+<br>
+
+## 🧑‍💻 Experience
+
+- **UMC 9th — Android Junior**  
+  2025.09 ~ 2026.02

@@ -63,7 +63,8 @@
 
 - **UMC 9th — Android Junior**  
   2025.09 ~ 2026.02
-
+- **겜마루 31th — Programming Part**  
+  2026.03 ~
 <br>
 
 ## 🚀 Key Projects
